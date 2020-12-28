@@ -1,0 +1,3 @@
+<Insert your bot token here!>
+^Any line below the first one will be ignored. So just replace the first one with the token.
+-> You can make git ignore this file once changed by running: `git update-index --assume-unchanged src/main/resources/botID.txt`

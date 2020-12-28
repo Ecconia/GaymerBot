@@ -1,0 +1,14 @@
+#Eclipse:
+/.classpath
+/.project
+/.settings/
+
+#Idea:
+/.idea/
+/*.iml
+
+#Maven:
+/target/
+
+#Project:
+/data.json
