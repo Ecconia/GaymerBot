@@ -1,4 +1,4 @@
-package de.ecconia.styms.discordbot.generic;
+package de.ecconia.styms.discord.gaymerbot.generic;
 
 @SuppressWarnings("serial")
 public class BootException extends Exception

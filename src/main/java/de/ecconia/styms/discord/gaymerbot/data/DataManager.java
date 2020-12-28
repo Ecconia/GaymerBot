@@ -1,8 +1,8 @@
-package de.ecconia.styms.discordbot.data;
+package de.ecconia.styms.discord.gaymerbot.data;
 
 import de.ecconia.java.json.JSONArray;
 import de.ecconia.java.json.JSONObject;
-import de.ecconia.styms.discordbot.GaymerBot;
+import de.ecconia.styms.discord.gaymerbot.GaymerBot;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

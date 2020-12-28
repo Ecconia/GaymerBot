@@ -1,7 +1,7 @@
-package de.ecconia.styms.discordbot.data;
+package de.ecconia.styms.discord.gaymerbot.data;
 
 import de.ecconia.java.json.JSONObject;
-import de.ecconia.styms.discordbot.PlayerListMessage;
+import de.ecconia.styms.discord.gaymerbot.PlayerListMessage;
 import net.dv8tion.jda.api.entities.Message;
 
 public class DataGame

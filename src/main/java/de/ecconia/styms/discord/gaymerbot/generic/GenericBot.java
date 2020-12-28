@@ -1,9 +1,8 @@
-package de.ecconia.styms.discordbot.generic;
+package de.ecconia.styms.discord.gaymerbot.generic;
 
 import java.util.HashMap;
 import java.util.Map;
 import javax.security.auth.login.LoginException;
-import net.dv8tion.jda.api.AccountType;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.events.guild.member.GuildMemberJoinEvent;

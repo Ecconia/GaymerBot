@@ -1,4 +1,4 @@
-package de.ecconia.styms.discordbot;
+package de.ecconia.styms.discord.gaymerbot;
 
 import java.util.ArrayList;
 import java.util.List;

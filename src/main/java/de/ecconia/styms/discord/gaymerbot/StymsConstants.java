@@ -1,4 +1,4 @@
-package de.ecconia.styms.discordbot;
+package de.ecconia.styms.discord.gaymerbot;
 
 import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.entities.Message;

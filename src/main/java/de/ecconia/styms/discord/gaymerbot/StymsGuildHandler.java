@@ -1,9 +1,8 @@
-package de.ecconia.styms.discordbot;
+package de.ecconia.styms.discord.gaymerbot;
 
-import com.sun.nio.sctp.SendFailedNotification;
-import de.ecconia.styms.discordbot.data.DataGame;
-import de.ecconia.styms.discordbot.generic.GenericGuild;
-import de.ecconia.styms.discordbot.generic.H;
+import de.ecconia.styms.discord.gaymerbot.data.DataGame;
+import de.ecconia.styms.discord.gaymerbot.generic.GenericGuild;
+import de.ecconia.styms.discord.gaymerbot.generic.H;
 import java.util.List;
 import java.util.stream.Collectors;
 import net.dv8tion.jda.api.entities.Member;
