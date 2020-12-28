@@ -35,13 +35,6 @@ public class StymsGuildHandler extends GenericGuild
 		
 		if(channel == bot.c.channelBot)
 		{
-			//Anti-Gokborg:
-			if(author.getId().equals("413848472303829003"))
-			{
-				channel.sendMessage("Shuddup.").complete();
-				return;
-			}
-			
 			if(raw.contains("<@!" + StymsConstants.GaymerBotID + ">") || raw.contains("<@" + StymsConstants.GaymerBotID + ">"))
 			{
 				String copiedRaw = raw;
